@@ -1,0 +1,24 @@
+title: DLLPLD
+default_lang: en
+author:
+  name: 'Peter Williams'
+  email: joe@test.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'DLLPLD is a living archive by Peter Williams'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+share:
+  facebook: true
+  twitter: true
+calendar: true
+sidebar_position: left
+placeholder: "   i"
+
