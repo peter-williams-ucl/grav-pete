@@ -5,9 +5,9 @@ taxonomy:
     category:
         - blog
     tag:
-        - stream
-        - typing
-        - emotion
+        - camera
+        - contact
+        - family
 continue_link: false
 author: 'Pete'
 description: 
