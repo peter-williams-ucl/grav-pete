@@ -7,9 +7,9 @@ taxonomy:
     tag:
         - keyboard
         - typing
-description: 'Feugiat interdum sed commodo ipsum consequat dolor nullam metus'
+description: 
 author: 'Kermit Frog'
 ---
 
-Just a simple edit!
+This is the keyboard I prefer. A mobile one is too small
 
