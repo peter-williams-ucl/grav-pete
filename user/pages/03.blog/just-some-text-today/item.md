@@ -10,10 +10,10 @@ taxonomy:
         - emotion
 continue_link: false
 author: 'Sid Shekhar'
-description: 'Just some thoughts...'
+description: 
 ---
 
-_I love my mobile phone.<br>
+I love my mobile phone.<br>
 I use it to talk to my friend Eliana.<br>
 I took a photo of her when she was asleep.<br>
-Here it is_ -
+Here it is
