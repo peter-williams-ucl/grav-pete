@@ -1,6 +1,6 @@
 ---
 title: 'Sarah'
-author: 'Peter Williams'
+author: 'Sarah'
 ---
 
 This is my page. I'll write something later
